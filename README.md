@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanchamudith&label=Profile%20views&color=0e75b6&style=flat" alt="shehanchamudith" /> </p>
 
-- 🔭 I’m currently working on **Distribution Agency System**
+- 🔭 I’m currently working on developing a **Distribution Agency System** 
 
 - 🌱 I’m an IT Undergraduate at **University of Kelaniya, Sri Lanka**
 
