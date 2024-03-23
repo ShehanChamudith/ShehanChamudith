@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Distribution Agency System**
 
-- 🌱 I’m a IT Undergraduate at **University of Kelaniya, Sri Lanka**
+- 🌱 I’m an IT Undergraduate at **University of Kelaniya, Sri Lanka**
 
 - 📫 How to reach me **ukshehanchamudith@gmail.com**
 
